@@ -1,12 +1,11 @@
-certifi==2020.6.20
-Flask @ file:///opt/conda/conda-bld/flask_1648041541647/work
-Flask-SQLAlchemy @ file:///tmp/build/80754af9/flask-sqlalchemy_1616180561581/work
-greenlet @ file:///C:/ci_310/greenlet_1642081533872/work
+click==8.0.4
+colorama==0.4.4
+Flask==2.0.3
+Flask-SQLAlchemy==2.5.1
+greenlet==1.1.2
 gunicorn==20.1.0
-itsdangerous @ file:///tmp/build/80754af9/itsdangerous_1621432558163/work
-Jinja2 @ file:///opt/conda/conda-bld/jinja2_1647436528585/work
-MarkupSafe @ file:///C:/ci_310/markupsafe_1642084045935/work
-pyglet==1.5.21
-SQLAlchemy @ file:///C:/ci/sqlalchemy_1647599976408/work
-Werkzeug @ file:///opt/conda/conda-bld/werkzeug_1645628268370/work
-wincertstore==0.2
+itsdangerous==2.1.2
+Jinja2==3.1.0
+MarkupSafe==2.1.1
+SQLAlchemy==1.4.32
+Werkzeug==2.0.3
