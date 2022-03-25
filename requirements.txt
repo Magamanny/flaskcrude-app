@@ -1,5 +1,4 @@
 certifi==2020.6.20
-colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
 Flask @ file:///opt/conda/conda-bld/flask_1648041541647/work
 Flask-SQLAlchemy @ file:///tmp/build/80754af9/flask-sqlalchemy_1616180561581/work
 greenlet @ file:///C:/ci_310/greenlet_1642081533872/work
